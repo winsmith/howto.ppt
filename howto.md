@@ -111,7 +111,7 @@ All those redundant elements recurring on each slide give you, the presenter, a 
 
 So, start from a clean slate. Decide anew for each and every slide, what is really necessary. Are you talking about three distinct things and so people in your trial run get confused about which part of your presentation you're in? Alright, add sub-headings! Is the logo of your organization important for this slide? Put it in! But never just copy the previous slide and change the title. Every element should be needed, and if you don't need any of them, that's okay, too. A blank slide in between doesn't hurt you – it actually focuses the audience's attention back to you.
 
-## Images on Slides
+## Images, Videos and Graphs
 
 As a corollary to the previous point, if you want to show an image, show the image. Do not clutter up your slides. 
 
@@ -119,7 +119,15 @@ I prefer to embed author/designer/photographer information as a inset to the ima
 
 Usually people live some whitespace around the image in question. I'd argue against that. While whitespace in general (and on a regular computer screen) is good, your projector automatically has whitespace around the projection screen. So if the resolution is high enough (please, please, **please** get something with a high enough resolution) and the motive allows it, feel free to go edge to edge with your awesome image.
 
+Generally speaking, images are a good idea. You can use them to illustrate your point, show things that are hard to describe, or just provide comic relief. If your topic lends itself to good imagery, take some time to include that in your talk, and your audience will love it. Also, using more images will help you get away from those horrible bullet-point-by-bullet-point-this-is-what-I-am-going-to-say-slides.
+
 What about videos? I say make those fullscreen as well! Also, be careful to use them sparingly. Use short videos, and only when necessary. People generally want to hear you speak, not watch a prerecorded video.
+
+And Graphs? Okay, graphs can be used in two ways: Either they are complicated but important, or they are uncomplicated but explanatory. Uncomplicated but explanatory is easy: They are the graphs you show on your slide to underpin something you're saying, but you don't have to explain them. They are your basic output-over-time- or global-warming-by-pirates-graphs. Don't even acknowledge them, just throw them up to give yourself more credibility. 
+
+Complicated but important is a different beast. Take your time with these. (Ideally, you'll only have one such graph in your presentation. Even more ideally, you'll be able to avoid them altogether. But, here we are, so let's talk about them.) First, simplify them as much as possible. Then, put them up on the projector and prepare to spend a whole minute or even two on that slide. Explain why you're showing that graph. Explain what can be seen. Show *how* that can be seen. And let it sink in for a moment.
+
+Regardless of which graphs you show, make them simple. As simple as possible. Remove any axes, data points, units, that are not strictly necessary to the point you are trying to make. Use black and white for the background, and one or two colors to emphasize your point. Enlarge parts that you want or need to reference. And maybe even [make them fun](http://memebase.cheezburger.com/graphjam).
 
 ## Source Code Slides
 
