@@ -28,6 +28,7 @@ In addition to that, here are a few more tips to improve the structuring of your
 - repeat your message
 - timing
 - create an outline
+- build tension
 
 - introduce yourself (if you're not introduced)
 - have a title slide
@@ -110,6 +111,16 @@ All those redundant elements recurring on each slide give you, the presenter, a 
 
 So, start from a clean slate. Decide anew for each and every slide, what is really necessary. Are you talking about three distinct things and so people in your trial run get confused about which part of your presentation you're in? Alright, add sub-headings! Is the logo of your organization important for this slide? Put it in! But never just copy the previous slide and change the title. Every element should be needed, and if you don't need any of them, that's okay, too. A blank slide in between doesn't hurt you – it actually focuses the audience's attention back to you.
 
+## Images on Slides
+
+As a corollary to the previous point, if you want to show an image, show the image. Do not clutter up your slides. 
+
+I prefer to embed author/designer/photographer information as a inset to the image, just as news agencies and websites do. Any further information can be pushed back to your Sources and Citations slide. 
+
+Usually people live some whitespace around the image in question. I'd argue against that. While whitespace in general (and on a regular computer screen) is good, your projector automatically has whitespace around the projection screen. So if the resolution is high enough (please, please, **please** get something with a high enough resolution) and the motive allows it, feel free to go edge to edge with your awesome image.
+
+What about videos? I say make those fullscreen as well! Also, be careful to use them sparingly. Use short videos, and only when necessary. People generally want to hear you speak, not watch a prerecorded video.
+
 ## Source Code Slides
 
 You should probably not put source code on your slides. People will not be able to read it from the back, and even those who *can* read it won't have time to completely *get* it, because you're talking, remember? 
@@ -119,12 +130,6 @@ In ninety nine percent of all cases, it's better to include a link to the reposi
 1. As little as possible. Only show 3-5 lines at most. Can you make anything simpler? Do it!
 2. As large as possible. The font size for this should be *huge*, so even the people in the back who can only see half of your slide can get a glimpse at it.
 3. Monospaced and syntax-highlighted. Do everything you can to improve legibility.
-
-## Images on Slides
-
-In my opinion, if you want to show an image, show the image. Do not clutter up your slides. 
-
-I propose to instead show author/designer/photographer information as a inset to the image, just as news agencies and websites do, and any further 
 
 ----
 
@@ -147,6 +152,7 @@ I propose to instead show author/designer/photographer information as a inset to
 - bring adapters
 - talk to the organizers about demos, sound, etc
 - the room
+- projector (too dark, too light, trimmed?, aspect ratio, resolution?)
 - lots and lots of trial runs
 - ask your friends/SO(s) to critique you
 
