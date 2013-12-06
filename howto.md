@@ -66,6 +66,7 @@ Have a look at this video of Stephen Colbert's *The Word* on Ayn Rand (it's 6 mi
 * If Colbert talks about something, like Rand's book, sales numbers, or specific quotes, the slides show that.
 
 So, in summary: 
+
 1. Your slides are way less important than your talk.
 2. They should complement your talk, not structure it.
 3. Never ever put the things you want to say on a slide.
@@ -87,24 +88,35 @@ In ninety nine percent of all cases, it's better to include a link to the reposi
 - slooooooooow
 - short sentences
 - speak clearly
+
 ## images
+
 ## demos
+
 ## source code
+
 ## your voice
+
 ## videos / sound
 - check the sound system
 - make them short and to the point
+
 ## preparation / trial runs
 - bring adapters
 - talk to the organizers about demos, sound, etc
 - the room
+
 ## the small things
 - gestures
 - posture
 - voice
+
 ## things to avoid
+
 ## further resources
+
+## examples of good talks
 - gruber?
 - merlin mann
-## examples of good talks
+- Colbert?
 
