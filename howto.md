@@ -60,6 +60,8 @@ Have a look at this video of Stephen Colbert's *The Word* on Ayn Rand (it's 6 mi
 
 <embed style="display:block" src="http://media.mtvnservices.com/mgid:cms:video:colbertnation.com:221335" width="288" height="247" type="application/x-shockwave-flash" wmode="window" allowFullscreen="true" flashvars="autoPlay=false" allowscriptaccess="always" allownetworking="all" bgcolor="#000000"></embed>
 
+Heres a [Link, in case the embed does not work](http://www.colbertnation.com/the-colbert-report-videos/221335/march-11-2009/the-word---rand-illusion).
+
 * Most of the time when Colbert is speaking, there is just background behind him. No slides, you just focus on the speaker.
 * Videos are full-screen (with a banner citing the date of publication, doubling as a source here), but the talk would work without it. They back up Colbert's claims, and are well-selected.
 * Points are made by Colbert, and the slides emphasize them, serve as examples or as proof, allowing him to stay on his message. (In this example, they also contradict him for comedic effect. You should probably not do that.)
