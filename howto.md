@@ -27,6 +27,13 @@ In addition to that, here are a few more tips to improve the structuring of your
 - have a connection between opening and closing 
 - repeat your message
 - timing
+- create an outline
+
+- introduce yourself (if you're not introduced)
+- have a title slide
+- do **not** explain the joke on the title slide!
+- have a final slide, with your name and where to get the source for this talk
+- *after* the final slide, have a slide for sources and citations
 
 ## You Don't Need Slides
 
@@ -56,6 +63,10 @@ Instead, **your slides should complement your talk**.
 
 An improvement over this example would be to split the slide into three slides, each showing relevant *background* information about the detection method: An example of the fur detection in action. The words "or MIAOW for short." Some cat photos that are detectable by those methods. Or you could simple display "Cat Detection Methods" as the headline to that part of your talk.
 
+> **Aside: What if you can't remember your text?**
+> By the time you actually give your talk, you should almost know it by heart. You don't need to know how each sentence is formulated, but even your minimalistic slides should give you enough pointers to get you going for each slide. 
+> If you find out that this is not enough for you, print out your outline. If you have a speaker's desk (see also below: know the room), you can just put your printout there and glance downwards from time to time. Otherwise, print it on heavy paper and cut it into cue cards.
+
 Have a look at this video of Stephen Colbert's *The Word* on Ayn Rand (it's 6 minutes of presentation awesome):
 
 <embed style="display:block" src="http://media.mtvnservices.com/mgid:cms:video:colbertnation.com:221335" width="288" height="247" type="application/x-shockwave-flash" wmode="window" allowFullscreen="true" flashvars="autoPlay=false" allowscriptaccess="always" allownetworking="all" bgcolor="#000000"></embed>
@@ -74,6 +85,31 @@ So, in summary:
 3. Never ever put the things you want to say on a slide.
 4. Really. Never do that.
 
+## Unclutter Your Slides
+
+Sometimes, when presenters want to show an image, their slide contains the following: 
+
+* the title of their talk
+* the title of the subsection of their talk they're in right now
+* the logo of their organization
+* the GNU logo
+* their website address
+* their name
+* the current date
+* source information for the image
+* license information for the image
+* a title for the image
+* **the actual image**
+* the title of the following slide
+* the title of the previous slide
+* a table of contents for their presentation, with the current slide highlighted by a small yellow arrow
+
+Say no to all that clutter. Show exactly what is needed a that moment in your talk. The people in the audience know who you are, because you introduced yourself at the beginning. They know your talk's title, because it is on the actual *fahrplan* of the event. 
+
+All those redundant elements recurring on each slide give you, the presenter, a false sense of structure. From a bird's eye view, your slides look way more structured than the chaotic, minimal slides I'm proposing, but to your audience's point of view, all the non-necessary elements do is take up space you could be using for content.
+
+So, start from a clean slate. Decide anew for each and every slide, what is really necessary. Are you talking about three distinct things and so people in your trial run get confused about which part of your presentation you're in? Alright, add sub-headings! Is the logo of your organization important for this slide? Put it in! But never just copy the previous slide and change the title. Every element should be needed, and if you don't need any of them, that's okay, too. A blank slide in between doesn't hurt you – it actually focuses the audience's attention back to you.
+
 ## Source Code Slides
 
 You should probably not put source code on your slides. People will not be able to read it from the back, and even those who *can* read it won't have time to completely *get* it, because you're talking, remember? 
@@ -84,6 +120,14 @@ In ninety nine percent of all cases, it's better to include a link to the reposi
 2. As large as possible. The font size for this should be *huge*, so even the people in the back who can only see half of your slide can get a glimpse at it.
 3. Monospaced and syntax-highlighted. Do everything you can to improve legibility.
 
+## Images on Slides
+
+In my opinion, if you want to show an image, show the image. Do not clutter up your slides. 
+
+I propose to instead show author/designer/photographer information as a inset to the image, just as news agencies and websites do, and any further 
+
+----
+
 ## Speaking
 - slow
 - short sentences
@@ -91,11 +135,7 @@ In ninety nine percent of all cases, it's better to include a link to the reposi
 - short sentences
 - speak clearly
 
-## images
-
 ## demos
-
-## source code
 
 ## your voice
 
@@ -107,13 +147,13 @@ In ninety nine percent of all cases, it's better to include a link to the reposi
 - bring adapters
 - talk to the organizers about demos, sound, etc
 - the room
+- lots and lots of trial runs
+- ask your friends/SO(s) to critique you
 
 ## the small things
 - gestures
 - posture
 - voice
-
-## things to avoid
 
 ## further resources
 
@@ -121,4 +161,6 @@ In ninety nine percent of all cases, it's better to include a link to the reposi
 - gruber?
 - merlin mann
 - Colbert?
+- Gemmel
+
 
