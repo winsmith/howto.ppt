@@ -119,7 +119,7 @@ I prefer to embed author/designer/photographer information as a inset to the ima
 
 Usually people live some whitespace around the image in question. I'd argue against that. While whitespace in general (and on a regular computer screen) is good, your projector automatically has whitespace around the projection screen. So if the resolution is high enough (please, please, **please** get something with a high enough resolution) and the motive allows it, feel free to go edge to edge with your awesome image.
 
-Generally speaking, images are a good idea. You can use them to illustrate your point, show things that are hard to describe, or just provide comic relief. If your topic lends itself to good imagery, take some time to include that in your talk, and your audience will love it. Also, using more images will help you get away from those horrible bullet-point-by-bullet-point-this-is-what-I-am-going-to-say-slides.
+Generally speaking, images are a good idea. You can use them to illustrate your point, show things that are hard to describe, or just provide comic relief. If your topic lends itself to good imagery, take some time to include that in your talk, and your audience will love it. Also, using more images will help you get away from those horrible clichéd bullet-point-by-bullet-point-this-is-what-I-am-going-to-say-slides. I'd rather you used the clichéd background-image-plus-one-word-slides instead. 
 
 What about videos? I say make those fullscreen as well! Also, be careful to use them sparingly. Use short videos, and only when necessary. People generally want to hear you speak, not watch a prerecorded video.
 
