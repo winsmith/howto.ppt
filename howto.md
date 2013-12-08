@@ -64,10 +64,6 @@ Instead, **your slides should complement your talk**.
 
 An improvement over this example would be to split the slide into three slides, each showing relevant *background* information about the detection method: An example of the fur detection in action. The words "or MIAOW for short." Some cat photos that are detectable by those methods. Or you could simple display "Cat Detection Methods" as the headline to that part of your talk.
 
-> **Aside: What if you can't remember your text?**
-> By the time you actually give your talk, you should almost know it by heart. You don't need to know how each sentence is formulated, but even your minimalistic slides should give you enough pointers to get you going for each slide. 
-> If you find out that this is not enough for you, print out your outline. If you have a speaker's desk (see also below: know the room), you can just put your printout there and glance downwards from time to time. Otherwise, print it on heavy paper and cut it into cue cards.
-
 Have a look at this video of Stephen Colbert's *The Word* on Ayn Rand (it's 6 minutes of presentation awesome):
 
 <embed style="display:block" src="http://media.mtvnservices.com/mgid:cms:video:colbertnation.com:221335" width="288" height="247" type="application/x-shockwave-flash" wmode="window" allowFullscreen="true" flashvars="autoPlay=false" allowscriptaccess="always" allownetworking="all" bgcolor="#000000"></embed>
@@ -163,6 +159,10 @@ When it doesn't work, have a backup ready. Maybe one of your co-presenters can t
 - slooooooooow
 - short sentences
 - speak clearly
+
+> **Aside: What if you can't remember your text?**
+> By the time you actually give your talk, you should almost know it by heart. You don't need to know how each sentence is formulated, but even your minimalistic slides should give you enough pointers to get you going for each slide. 
+> If you find out that this is not enough for you, print out your outline. If you have a speaker's desk (see also below: know the room), you can just put your printout there and glance downwards from time to time. Otherwise, print it on heavy paper and cut it into cue cards.
 
 ## preparation / trial runs
 - bring adapters
