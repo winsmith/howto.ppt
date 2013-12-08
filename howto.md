@@ -139,6 +139,22 @@ In ninety nine percent of all cases, it's better to include a link to the reposi
 2. As large as possible. The font size for this should be *huge*, so even the people in the back who can only see half of your slide can get a glimpse at it.
 3. Monospaced and syntax-highlighted. Do everything you can to improve legibility.
 
+## On Demonstrations
+
+The idea of an actual demo always sounds awesome. Why show dry slides when you can show the real thing, live on stage? In reality, demos are often not as cool as they sound. They crash, they get different results than expected, and they take too long. And even if they work perfectly, they might just not convey the message you want them to. So use them only when you really have to, and apply the same rules as for source code slides: Reduce the demo to its absolute minimum and make it as understandable as possible what's going on. Also, your demo should have as little dependencies on outside factors like network access as possible, and **make sure you can continue if the demo is not working somehow**.
+
+That being said, a good demo can improve a talk tenfold.
+
+One of the best demos I ever saw was for a [Hash Collision Exploit in Web Servers](http://arstechnica.com/business/2011/12/huge-portions-of-web-vulnerable-to-hashing-denial-of-service-attack/). (There is a link to a video of this presentation in the "Examples of Good Talks" section later.) The hackers proved that, by sending certain values to certain web apps, they could slow down a single request by almost ten times. 
+
+After explaining all the necessary prerequisites, the presenters switched to a terminal, pasted a command and said "this is a normal web request to this web app." The request was answered by a second line in the terminal almost immediately. "Now," the presenters continued, "this is our specially prepared request." They pasted another, single-line, command, hit enter and ... nothing happened. After a few seconds, the audience got that the server was *still* processing the request, and would continue to do so for almost ten seconds. The presenters received thunderous applause.
+
+Apart from having a very interesting topic, these presenters kept their demo very short, and to the point. They also ran their demo locally, without requiring any network access or internet servers to work correctly. You can not expect the network at a conference to work reliably. No, not even at the Congress.
+
+When it doesn't work, have a backup ready. Maybe one of your co-presenters can try to fix stuff while you [tell a short anecdote about your project or yourself](http://www.youtube.com/watch?v=xiSBSXrQ8D0). Maybe you can skip the demo entirely, or try again at the end of your talk. But don't fiddle around endlessly while the energy in the room evaporates. 
+
+
+
 ----
 
 ## Speaking
@@ -148,14 +164,6 @@ In ninety nine percent of all cases, it's better to include a link to the reposi
 - short sentences
 - speak clearly
 
-## demos
-
-## your voice
-
-## videos / sound
-- check the sound system
-- make them short and to the point
-
 ## preparation / trial runs
 - bring adapters
 - talk to the organizers about demos, sound, etc
@@ -163,6 +171,7 @@ In ninety nine percent of all cases, it's better to include a link to the reposi
 - projector (too dark, too light, trimmed?, aspect ratio, resolution?)
 - lots and lots of trial runs
 - ask your friends/SO(s) to critique you
+- check the sound system
 
 ## the small things
 - gestures
@@ -177,5 +186,6 @@ In ninety nine percent of all cases, it's better to include a link to the reposi
 - Colbert?
 - Gemmel
 - https://www.youtube.com/watch?v=XkWetbQHWlk
+- [Hash Collisions 28c3](http://www.youtube.com/watch?v=R2Cq3CLI6H8) and [Hash Collisions 29c3](http://www.youtube.com/watch?v=wGYj8fhhUVA) see 25:00
 
 
