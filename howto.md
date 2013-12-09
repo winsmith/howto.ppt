@@ -18,23 +18,37 @@ Colors, fonts, OSes... they're all window dressing, and don't really affect your
 
 ## How to Structure Your Talk
 
-Obviously your talk needs structure. You need to explain things one by one before you can use them in larger building blocks -- resolve your dependencies. 
+Obviously your talk needs structure. You need to explain things one by one before you can use them in larger building blocks – resolve your dependencies. 
 
-In addition to that, here are a few more tips to improve the structuring of your talk. 
+What is less obvious is that you also need structure to build *tension*. You don't need to make a dramatic thriller out of your subject, your average human will care way more about a topic if theres a narrative arc in it. To help your audience stay focused, don't only talk about the technical details, tell the *story* of the technical details. 
 
-- don't tell people your structure beforehand
-- have one take-away from your talk
-- have a connection between opening and closing 
-- repeat your message
-- timing
-- create an outline
-- build tension
+This might seem very unnatural, unscientific or even unwise to do, so apply as much or as little of this advice as you feel comfortable with. But trust me: some tension and subsequent relief, even in a goofy fashion, will make your talk come alive like nothing else.
 
-- introduce yourself (if you're not introduced)
-- have a title slide
-- do **not** explain the joke on the title slide!
-- have a final slide, with your name and where to get the source for this talk
-- *after* the final slide, have a slide for sources and citations
+* Start with what you set out to do. Have some question, or a goal to attain. Usually, you're the protagonist of your talk, but maybe it is someone else? Some*thing* else even?
+* Tell us about what worked, but also what didn't, and how your protagonist felt when things didn't work out. 
+* Drive your story forward. How did your protagonist overcome their obstacles, were there new ones?
+* Have a climax of some sort. Your protagonist's breakthrough, the final discovery, the working hack. This is where a demo might be in order, or something special.
+* Don't dawdle too long after the climax. Tie up any loose ends and go to questions.
+
+This whole story telling approach will obviously not work with every topic, every talk, or every presenter. Maybe you need to find other ways to create a narrative arc, to create tension. Or maybe is it completely impossible for some reason. So let's talk about other ways to structure your talk that are at least as important as the story telling aspect.
+
+Don't tell people what your structure is beforehand. If your talk consists of three loosely coupled parts, it's okay to mention that. But do not make the rookie mistake of wasting a slide, and three minutes of your audience's attention on telling them what you are going to tell them, slide title by slide title. If your talk is well-structured, your audience will follow you through it without it, and if it isn't, they're going to tune out anyway. Also, this will destroy any story tension and send the clear message: this is going to be a dry, academic presentation.
+
+Have an opening and a closing. It is common to circle back to the idea at the beginning when finishing a talk. For example, you could open with an anecdote that exposes your main problem or goal, then solve the problem through your talk, and then finish your anecdote, achieving a satisfactory ending. 
+
+Think about the message you want to convey to your audience. Maybe the message is "there is this new exploit I found, so please be conscious of it in your projects." Or maybe it is "look at how poorly *Company X* implemented their security." Or maybe it's even "look how leet my hacking skillz are." Whatever it is, become aware of your message and keep it consistent. 
+
+To create your structure, it's best to create an outline. Start with just one sentence as your root node (the message of your talk) and recursively create sub-nodes - Breadth first, obviously – until you've reached a depth that seems good for you. (If you haven't had the pleasure to learn about recursion or trees in computer science yet, you can also just start with one sentence and flesh that out until you get a more and more detailed outline. But it won't sound as nerdy.) 
+
+You are very much allowed, even encouraged to move things around in your outline while developing it. Once you flesh it out more and more, a sane sequence of points should emerge, and you can begin creating slides for each sub-heading of your outline. But don't throw it out afterwards: The outline should be like a blueprint of your talk. Your slides just show what will be on the projector, but your outline shows your whole talk.
+
+Other than that:
+
+- Introduce yourself at the beginning of your talk (if you're not introduced). But don't spend more than two sentences on yourself, three if you're a Nobel or Ig-Nobel laureate.
+- Have a title slide.
+- Do **not** explain the joke on the title slide!
+- Have a final slide, with your name, email and where to get the source and further information for this talk.
+- *After* the final slide, have a slide for sources and citations.
 
 ## You Don't Need Slides
 
@@ -179,6 +193,9 @@ When it doesn't work, have a backup ready. Maybe one of your co-presenters can t
 - voice
 
 ## further resources
+- [Tension in Story Telling](http://lisezvous.blogspot.de/2010/03/tension-and-storytelling.html)
+- [Elements that help you achieve Tension](http://shelleywidhalm.wordpress.com/2012/06/24/achieving-tension-in-storytelling/)
+- [Story Telling](http://www.themoleskin.com/2010/03/storytelling-in-business-tension-makes-your-story-interesting/)
 
 ## examples of good talks
 - gruber?
