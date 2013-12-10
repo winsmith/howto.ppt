@@ -119,7 +119,7 @@ Say no to all that clutter. Show exactly what is needed a that moment in your ta
 
 All those redundant elements recurring on each slide give you, the presenter, a false sense of structure. From a bird's eye view, your slides look way more structured than the chaotic, minimal slides I'm proposing, but to your audience's point of view, all the non-necessary elements do is take up space you could be using for content.
 
-So, start from a clean slate. Decide anew for each and every slide, what is really necessary. Are you talking about three distinct things and so people in your trial run get confused about which part of your presentation you're in? Alright, add sub-headings! Is the logo of your organization important for this slide? Put it in! But never just copy the previous slide and change the title. Every element should be needed, and if you don't need any of them, that's okay, too. A blank slide in between doesn't hurt you – it actually focuses the audience's attention back to you.
+So, start from a clean slate. Decide anew for each and every slide, what is really necessary. Are you talking about three distinct things and so people in your trial run get confused about which part of your presentation you're in? Alright, add sub-headings! Is the logo of your organization important for this slide? Put it in! But never just copy the previous slide and change the title. Every element should be needed, and if you don't need any of them, that's okay, too. A blank slide in between doesn't hurt you – it actually focuses the audience's attention back to you.
 
 ## Images, Videos and Graphs
 
@@ -175,26 +175,43 @@ Slooooow.
 
 If you slow down your speaking, you will also automatically speak more clearly. Still, try to enunciate. Form your words with care instead of slurring them. You don't have to achieve the speech patterns of a news anchor, but speaking too clearly is way less of a problem than speaking in a way that has people straining to get what you are saying.
 
-If you want to reach the holy grail of speaking, you also need to show some energy. Through your voice and your words and your movement, show people that the topic is important to you, that it fascinates or horrifies or amuses you. Because if you don't seem to care about your talk, why should your audience? Don't be over the top though – you're not an actor in a cheesy theater production. Smirk at the right places, raise your voice at the important points, and pause after them for a second or three. Once you speak slowly, deliberately and passionately, your talk will gain a lot of quality.
+If you want to reach the holy grail of speaking, you also need to show some energy. Through your voice and your words and your movement, show people that the topic is important to you, that it fascinates or horrifies or amuses you. Because if you don't seem to care about your talk, why should your audience? Don't be over the top though – you're not an actor in a cheesy theater production. Smirk at the right places, raise your voice at the important points, and pause after them for a second or three. Once you speak slowly, deliberately and passionately, your talk will gain a lot of quality.
 
 > **Aside: What if you can't remember your text?**
 > By the time you actually give your talk, you should almost know it by heart. You don't need to know how each sentence is formulated, but even your minimalistic slides should give you enough pointers to get you going for each slide. 
 > If you're like me and find out that this is not enough for you, print out your outline. If you have a speaker's desk (see also below: know the room), you can just put your printout there and glance downwards from time to time. Otherwise, print it on heavy paper and cut it into cue cards.
 
+## Prepare Yourself
 
+You should **rehearse your talk a lot**. First, just take your outline and speak along to that. Put up your slides on your computer screen and switch slides at the appropriate moments. You will stumble a lot over things that looked so smooth on screen or in your outline. Correct them, and move on. 
+
+Once you can go through your complete talk without stumbling, fiend a friend whose criticism you're prepared to accept, and rehearse the talk in front of them. This time, you might experience some stage fright. This is *good* – it prepares you for the real thing. Your friend will probably have some questions or improvements. Change your talk to account for those and rehearse again. 
+
+During rehearsals, not only change your outline and slides to better fit your message, but also change your tools to better fit your talk. If your IR clicky thing doesn't work because you're walking around too much, get a bluetooth one. If your printed outline hinders you, either change it to cue cards or learn your outline by heart.
+
+Rehearsing your talk over and over will seem tedious and pointless. But you will be *so* glad you did it at that one moment where your name is called out and you have to walk on stage. The feeling of being well-prepared is awesome and will give you a much-needed confidence boost.
+
+## Know the Room
+
+Try to find out the room where you're giving your talk and get a feel for it before your presentation. That includes simply entering the room before it is full of people and trying to get a feel for the atmosphere. If you see the stage from the view of an audience member, you'll get a better feeling for how your talk will affect people in the audience.
+
+If possible, also have a look at the projector tech you're going to use and try it out. 
+
+* Do you have the correct adapters? If not, you should scramble to find them. 
+* Is the projector's color range and temperature similar to your screen's? If not, change your slides so that your colors will look good and everything is readable. 
+* Does the projector cut off any important parts of your slides? Rearrange them.
+* Do you use sound or videos? Try them out so you'll know they work and have the correct volume. 
+
+You should also really talk to the organizers of the conference about the peculiarities of your presentation. Do you use sound or videos? Need network access for that demo? Is your live tiger going to be a problem? Will there be a Q&A after the talk? These are all important questions to ask and discuss a few days before your talk, and good conference organizers will gladly answer your emails about them.
+
+## Break a Leg!
+
+Theater performers think it's unlucky to wish each other good luck before going on stage. So they tell each other to [break a leg](http://en.wikipedia.org/wiki/Break_a_leg) instead. And with that, I'll leave you. May your good idea get the awesome presentation it deserves!
 
 ----
 
-## preparation / trial runs
-- bring adapters
-- talk to the organizers about demos, sound, etc
-- the room
-- projector (too dark, too light, trimmed?, aspect ratio, resolution?)
-- lots and lots of trial runs
-- ask your friends/SO(s) to critique you
-- check the sound system
-
 ## further resources
+- [Giving a Talk](https://www.cs.duke.edu/brd/Teaching/Giving-a-talk/giving-a-talk.html) by and for computer scientists
 - [Tension in Story Telling](http://lisezvous.blogspot.de/2010/03/tension-and-storytelling.html)
 - [Elements that help you achieve Tension](http://shelleywidhalm.wordpress.com/2012/06/24/achieving-tension-in-storytelling/)
 - [Story Telling](http://www.themoleskin.com/2010/03/storytelling-in-business-tension-makes-your-story-interesting/)
@@ -206,5 +223,11 @@ If you want to reach the holy grail of speaking, you also need to show some ener
 - Gemmel
 - https://www.youtube.com/watch?v=XkWetbQHWlk
 - [Hash Collisions 28c3](http://www.youtube.com/watch?v=R2Cq3CLI6H8) and [Hash Collisions 29c3](http://www.youtube.com/watch?v=wGYj8fhhUVA) see 25:00
+- [27C3: Adventures in analyzing Stuxnet (Bruce Dang from Microsoft)](http://www.youtube.com/watch?v=rOwMW6agpTI)
+- [29C3: Many Tamagotchis Were Harmed in the Making of this Presentation](http://www.youtube.com/watch?v=WOJfUcCOhJ0) (Her voice is quavering a little because she seems nervous, but the talk is excellent.)
+- [Principles of Lighting and Rendering with John Carmack at QuakeCon 2013](http://www.youtube.com/watch?v=VUxcVzpeFqc)
+- [Aimee Mullins: My 12 pairs of legs](http://www.ted.com/talks/aimee_mullins_prosthetic_aesthetics.html)
+- [Webstock '11: John Gruber - The Gap Theory of UI Design](http://vimeo.com/21742166)
+- [Webstock '11: Merlin Mann - Scared Shittless](http://www.youtube.com/watch?v=Lk0hSeQ5s_k) Mann is well known and has kind of a "special" way of giving talks, but it he is a very good speaker nonetheless. Also, have a look at his awesome slides. OR: [Inbox Zero](http://www.youtube.com/watch?v=z9UjeTMb3Yk)
 
 
