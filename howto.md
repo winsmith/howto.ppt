@@ -163,20 +163,27 @@ Apart from having a very interesting topic, these presenters kept their demo ver
 
 When it doesn't work, have a backup ready. Maybe one of your co-presenters can try to fix stuff while you [tell a short anecdote about your project or yourself](http://www.youtube.com/watch?v=xiSBSXrQ8D0). Maybe you can skip the demo entirely, or try again at the end of your talk. But don't fiddle around endlessly while the energy in the room evaporates. 
 
+## How to Speak
 
+You already know how to speak. For your talk, just slow down. Use short sentences, way shorter than you're used to. They may seem stupid on paper. But they will help your audience understand you better.
 
-----
+Also speak *slowly*. You should also repeat your most important points. Because Repetition helps your audience remember the important bits.
 
-## Speaking
-- slow
-- short sentences
-- slooooooooow
-- short sentences
-- speak clearly
+Did I already mention that you should slow down your speaking? I mean it. You'll feel ridiculous at first. But your audience will thank you, and after a few practice runs of your talk, the weirdness factor will have worn off.
+
+Slooooow.
+
+If you slow down your speaking, you will also automatically speak more clearly. Still, try to enunciate. Form your words with care instead of slurring them. You don't have to achieve the speech patterns of a news anchor, but speaking too clearly is way less of a problem than speaking in a way that has people straining to get what you are saying.
+
+If you want to reach the holy grail of speaking, you also need to show some energy. Through your voice and your words and your movement, show people that the topic is important to you, that it fascinates or horrifies or amuses you. Because if you don't seem to care about your talk, why should your audience? Don't be over the top though – you're not an actor in a cheesy theater production. Smirk at the right places, raise your voice at the important points, and pause after them for a second or three. Once you speak slowly, deliberately and passionately, your talk will gain a lot of quality.
 
 > **Aside: What if you can't remember your text?**
 > By the time you actually give your talk, you should almost know it by heart. You don't need to know how each sentence is formulated, but even your minimalistic slides should give you enough pointers to get you going for each slide. 
-> If you find out that this is not enough for you, print out your outline. If you have a speaker's desk (see also below: know the room), you can just put your printout there and glance downwards from time to time. Otherwise, print it on heavy paper and cut it into cue cards.
+> If you're like me and find out that this is not enough for you, print out your outline. If you have a speaker's desk (see also below: know the room), you can just put your printout there and glance downwards from time to time. Otherwise, print it on heavy paper and cut it into cue cards.
+
+
+
+----
 
 ## preparation / trial runs
 - bring adapters
@@ -186,11 +193,6 @@ When it doesn't work, have a backup ready. Maybe one of your co-presenters can t
 - lots and lots of trial runs
 - ask your friends/SO(s) to critique you
 - check the sound system
-
-## the small things
-- gestures
-- posture
-- voice
 
 ## further resources
 - [Tension in Story Telling](http://lisezvous.blogspot.de/2010/03/tension-and-storytelling.html)
