@@ -70,7 +70,7 @@ Slides are there to **enhance** your talk, not **be** your talk. So, what should
 
 Imagine a novice speaker with a great idea. Their slide reads: "Methods to improve Cat Photo detection: 1. Fur Detection Algorithm. 2. Matching Intermittent Aural Output Widgets. 3. Employ Humans."
 
-To this, they say the following words: "We have various methods to improve at Photo detection. First, we have a fur detection algorithm. Next, we implement Matching Intermittent Aural Output Widgets. Third, we can use humans to improve our output."
+To this, they say the following words: "We have various methods to improve Cat Photo Detection. First, we have a fur detection algorithm. Next, we implement Matching Intermittent Aural Output Widgets. Third, we can use humans to improve our output."
 
 Humans get bored very easily when they receive the same information on different channels, and tune out of the channel that seems slower to them. Notice how you almost certainly skipped parts of the previous paragraph? It's even worse in an actual talk. 
 
